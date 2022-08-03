@@ -10,4 +10,4 @@ The purpose of this website is to demonstrate the ability to create and deploy a
 ![](Screenshots/About.jpg) 
 ![](Screenshots/Products1.jpg) 
 ![](Screenshots/Products2.jpg) 
-![](Screenshots/StoreLocator.jpg) 
+![](Screenshots/StoreLocator.JPG) 
