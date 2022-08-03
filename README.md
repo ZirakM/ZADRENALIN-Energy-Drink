@@ -6,4 +6,7 @@ The purpose of this website is to demonstrate the ability to create and deploy a
 
 ## Screenshots
 
+![](Screenshots/Home.jpg) 
 ![](Screenshots/About.jpg) 
+![](Screenshots/Products1.jpg) 
+![](Screenshots/Products2.jpg) 
